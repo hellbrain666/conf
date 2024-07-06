@@ -1,6 +1,6 @@
 //profile-title: hb666
 //profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=1024000; expire=3000000
+//subscription-userinfo: upload=0; download=0; total=100000000; expire=300000000
 
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
 #warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
