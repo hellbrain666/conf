@@ -1,6 +1,6 @@
 //profile-title: babak.cfg002
 //profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=30000000000; expire=900000000
+//subscription-userinfo: upload=0; download=0; total=30000000000; expire=9000000000
 
 warp://188.114.97.240:3476/?ifp=5-10
 warp://188.114.96.53:4198/?ifp=5-10
