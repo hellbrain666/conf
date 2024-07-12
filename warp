@@ -1,6 +1,6 @@
 //profile-title: KPK-TIR
-//profile-update-interval: 24
-//subscription-userinfo: upload=1280000000; download=2560000000; total=10737418240; expire=1722457800
+//profile-update-interval: 4
+//subscription-userinfo: upload=1280000000; download=2560000000; total=107374182040; expire=1722457800
 //last update on: 2024-07-07
 
 warp://188.114.97.240:3476/?ifp=5-10
@@ -9,3 +9,5 @@ warp://188.114.99.181:854/?ifp=5-10
 warp://188.114.97.234:1074/?ifp=5-10
 warp://188.114.97.109:1387/?ifp=5-10
 warp://188.114.99.136:891/?ifp=5-10
+warp://188.114.98.140:1018/?ifp=5-10
+warp://188.114.97.46:864/?ifp=5-10
